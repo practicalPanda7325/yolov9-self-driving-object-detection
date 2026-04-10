@@ -23,7 +23,16 @@ Note: Dataset is not publicly available due to academic constraints.
 - Hyperparameter tuning for improved performance
 
 ## Results
-(Add your metrics here)
+
+### Overall Metrics
+
+| Metric        | Value |
+|--------------|------|
+| Precision     | 0.736 |
+| Recall        | 0.538 |
+| mAP@0.5       | 0.595 |
+| mAP@0.5:0.95  | 0.344 |
+| F1 Score      | 0.622 |
 
 ## Sample Outputs
 ![F1 Curve](results/f1_curve.png)
